@@ -9,7 +9,7 @@ exports[`<AppBarTitle /> matches snapshot 1`] = `
     noWrap={true}
     variant="title"
   >
-    ConsenSys React Boilerplate
+    Alkemi UI Template
   </WithStyles(Typography)>
 </WithStyles(ButtonBase)>
 `;

@@ -28,9 +28,7 @@ const Home = ({ classes }) => (
     <div className={classes.home}>
         <div className={classes.homeHeader}>
             <img src={logo} className={classes.homeLogo} alt="logo" />
-            <h1 className={classes.homeTitle}>
-                Welcome to ConsenSys React Boilerplate
-            </h1>
+            <h1 className={classes.homeTitle}>Welcome to Alkemi UI Template</h1>
         </div>
         <p className={classes.homeIntro}>
             To get started, edit <code>src/App.js</code> and save to reload.

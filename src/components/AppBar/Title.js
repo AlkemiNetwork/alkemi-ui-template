@@ -7,7 +7,7 @@ import Typography from "@material-ui/core/Typography";
 const AppBarTitle = ({ onClick }) => (
     <ButtonBase onClick={onClick}>
         <Typography variant="title" color="inherit" noWrap>
-            ConsenSys React Boilerplate
+            Alkemi UI Template
         </Typography>
     </ButtonBase>
 );

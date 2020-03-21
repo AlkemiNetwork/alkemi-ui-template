@@ -15,13 +15,13 @@ exports[`<Home /> matches snapshot 1`] = `
     <h1
       className="Home-homeTitle-4"
     >
-      Welcome to ConsenSys React Boilerplate
+      Welcome to Alkemi UI Template
     </h1>
   </div>
   <p
     className="Home-homeIntro-5"
   >
-    To get started, edit 
+    To get started, edit
     <code>
       src/App.js
     </code>
