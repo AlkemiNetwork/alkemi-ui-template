@@ -1,12 +1,14 @@
 # Versions
 
-## 0.1.1 _March 23rd 2020_
+## 0.1.1
+
+###### _March 23rd 2020_
 
 ### Features
 
 #### Design
 
--   Added [sass](https://sass-lang.com/)Syntactically Awesome Style Sheets
+-   Added [sass](https://sass-lang.com/) Syntactically Awesome Style Sheets
 -   Added [styled-components](https://styled-components.com/)
 
 #### Components/Containers
