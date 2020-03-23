@@ -1,5 +1,29 @@
 # Versions
 
+## 0.1.1 _March 23rd 2020_
+
+### Features
+
+#### Design
+
+-   Added [sass](https://sass-lang.com/)Syntactically Awesome Style Sheets
+-   Added [styled-components](https://styled-components.com/)
+
+#### Components/Containers
+
+-   [Wallet] Implement _Wallet_ component
+
+#### Redux
+
+-   Added [Reselect](https://github.com/reduxjs/reselect)
+-   Added [Redux-Saga](https://redux-saga.js.org/)
+
+#### Web3
+
+-   Added [web3modal](https://github.com/Web3Modal/web3modal) A single Web3 / Ethereum provider solution for all Wallets
+
+---
+
 ## 0.1.0
 
 ###### _March 21st 2020_
