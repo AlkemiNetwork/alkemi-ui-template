@@ -41,7 +41,7 @@
         "husky": "^1.1.0",
         "lint-staged": "^10.0.8",
         "prettier": "^1.10.2",
-        "redux-test-utils": "^0.3.0"
+        "redux-test-utils": "^1.0.0"
     },
     "lint-staged": {
         "src/**/*.{js,jsx,json,css}": [
