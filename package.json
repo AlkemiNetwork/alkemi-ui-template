@@ -39,7 +39,7 @@
         "enzyme-adapter-react-16": "^1.6.0",
         "enzyme-to-json": "^3.3.0",
         "husky": "^1.1.0",
-        "lint-staged": "^10.0.8",
+        "lint-staged": "^10.2.11",
         "prettier": "^1.10.2",
         "redux-test-utils": "^0.3.0"
     },
